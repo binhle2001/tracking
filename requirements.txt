@@ -1,0 +1,13 @@
+torch
+torchvision
+torchaudio
+pyyaml
+shapely
+psutil
+scipy
+gdown
+loguru
+matplotlib
+pandas
+seaborn
+filterpy
